@@ -5,11 +5,11 @@
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/javascript-game-orange.svg)
  
-O **Battle Space JS** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS.
+O **Battle Space JS** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS. **[Projeto Online](https://douglasaugustojunior.github.io/SpaceBattleJS/)**
 
-![Imagem](https://github.com/DouglasAugustoJunior/SpaceBattleJS/blob/master/_images/game.PNG)
+![Imagem](https://github.com/DouglasAugustoJunior/SpaceBattleJS/blob/master/images/game.PNG)
 
-![Imagem](https://github.com/DouglasAugustoJunior/SpaceBattleJS/blob/master/_images/game1.PNG)
+![Imagem](https://github.com/DouglasAugustoJunior/SpaceBattleJS/blob/master/images/game1.PNG)
 
 Desenvolvido em HTML5,CSS3 e JS, ele traz diversas situações interessantes para utilizar diversos recursos.
  

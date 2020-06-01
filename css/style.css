@@ -1,10 +1,12 @@
 @font-face{
     font-family: emulogic;
-    src: url(../_fonts/emulogic.ttf);
+    src: url(../fonts/emulogic.ttf);
 }
+
 body{
     background-color: black;
 }
+
 #game{
     width: 400px;
     height: 500px;

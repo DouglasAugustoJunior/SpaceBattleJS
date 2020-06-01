@@ -15,7 +15,7 @@ let gameState = LOADING;;// Estado atual
 let img = new Image();
 let sprites = [],recursosaCarregar = [];//Arrays Imagens
 img.addEventListener('load',carregarRecurso,false); // chama evento para carregar
-img.src = '_images/background_game.png'; // link da imagem
+img.src = 'images/background_game.png'; // link da imagem
 recursosaCarregar.push(img); // insere imagem ao array de imagens a carregar
 let recursosCarregados = 0;//contador de recursos
 
@@ -288,9 +288,9 @@ function fimJogo(){
 function playSound(soundType){
     let sound = document.createElement("audio");
     if (soundType == EXPLOSION){
-        sound.src = "_sounds/explosion.ogg";
+        sound.src = "sounds/explosion.ogg";
     }else{
-        sound.src = "_sounds/fire.ogg";
+        sound.src = "sounds/fire.ogg";
     }
     sound.addEventListener("canplaythrough",function(){
         sound.play();
